@@ -1,4 +1,4 @@
-Hi, I’m @justrogerz
-I’m currently learning Web Developing;
-Working on Thunder Roleplay, a roleplay FiveM server;
-Side projects: UnrealGranny (UE5 Granny Remake), TheCakeLand (Minecraft Spigot Server);
+Hi, I’m Riccardo, !Roger#4702 on Discord;
+I’m currently working as a FiveM developer, and I constantly try improving my skills;
+What I know: Lua, Java, C#, HTML/CSS/JS, Vue.Js
+Abandoned projects: UnrealGranny (Unreal Engine 5 Granny Remake), TheCakeLand (Minecraft Spigot Minigames Server);
